@@ -8,3 +8,9 @@ wa.me
 cloudconvert.com
 modrinth.com
 www.rottentomatoes.com
+myip.com
+amazonaws.com
+whatsapp.com
+whatsapp.net
+whatsapp.biz
+wa.me
