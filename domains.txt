@@ -15,4 +15,5 @@ whatsapp.net
 whatsapp.biz
 wa.me
 pixabay.com
+cdn.pixabay.com
 4kwallpapers.com
