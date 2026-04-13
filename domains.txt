@@ -17,3 +17,4 @@ wa.me
 pixabay.com
 cdn.pixabay.com
 4kwallpapers.com
+docs.rw
