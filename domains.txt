@@ -28,3 +28,4 @@ maps.googleapis.com
 *.googleapis.com
 developers.google.com
 game-data.lemonapi.com
+domcar.com.cy
