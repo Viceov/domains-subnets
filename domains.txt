@@ -20,3 +20,4 @@ cdn.pixabay.com
 docs.rw
 adpexai.com
 netacad.com
+genshin-impact-map.appsample.com
