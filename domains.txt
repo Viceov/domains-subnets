@@ -29,3 +29,5 @@ goatcounter.com
 gc.zgo.at
 google-analytics.com
 nitropay-839.b-cdn.net
+inmobi.com
+sync.inmobi.com
