@@ -32,3 +32,4 @@ nitropay-839.b-cdn.net
 inmobi.com
 sync.inmobi.com
 lemonapi.com
+game-data.lemonapi.com
