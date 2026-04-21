@@ -27,3 +27,4 @@ browser.geekbench.com
 windows64.net
 goatcounter.com
 gc.zgo.at
+google-analytics.com
