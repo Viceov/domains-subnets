@@ -63,3 +63,5 @@ confiant-integrations.net
 *.confiant-integrations.net
 indexww.com
 *.indexww.com
+hadronid.net
+*.hadronid.net
