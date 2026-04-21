@@ -67,3 +67,10 @@ hadronid.net
 *.hadronid.net
 ad.gt
 *.ad.gt
+
+genshin-impact-map.appsample.com
+s.nitropay.com
+a.ad.gt
+match.adsrvr.org
+cdn.hadronid.net
+player.avplayer.com
