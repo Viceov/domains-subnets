@@ -56,3 +56,5 @@ gstatic.com
 adnxs-simple.com
 id5-sync.com
 b-cdn.net
+mgid.com
+*.mgid.com
