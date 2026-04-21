@@ -26,3 +26,4 @@ wd.com
 browser.geekbench.com
 windows64.net
 goatcounter.com
+gc.zgo.at
