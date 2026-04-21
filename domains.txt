@@ -58,3 +58,6 @@ id5-sync.com
 b-cdn.net
 mgid.com
 *.mgid.com
+venturebuilder.com
+confiant-integrations.net
+*.confiant-integrations.net
