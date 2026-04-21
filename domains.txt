@@ -28,3 +28,4 @@ windows64.net
 goatcounter.com
 gc.zgo.at
 google-analytics.com
+nitropay-839.b-cdn.net
