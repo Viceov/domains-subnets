@@ -45,6 +45,7 @@ lijit.com
 3lift.com
 adsrvr.org
 rubiconproject.com
+*.rubiconproject.com
 lijit.com
 qvdt3feo.com
 media.net
