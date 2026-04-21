@@ -33,3 +33,4 @@ inmobi.com
 sync.inmobi.com
 lemonapi.com
 game-data.lemonapi.com
+avplayer.com
