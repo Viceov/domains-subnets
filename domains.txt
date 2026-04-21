@@ -27,10 +27,13 @@ browser.geekbench.com
 windows64.net
 goatcounter.com
 gc.zgo.at
+*.zgo.at
 google-analytics.com
 nitropay-839.b-cdn.net
+*.b-cdn.net
 inmobi.com
 sync.inmobi.com
+*.inmobi.com
 lemonapi.com
 game-data.lemonapi.com
 avplayer.com
