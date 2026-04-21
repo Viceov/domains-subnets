@@ -74,3 +74,4 @@ a.ad.gt
 match.adsrvr.org
 cdn.hadronid.net
 player.avplayer.com
+game-data.b-cdn.net
