@@ -25,3 +25,4 @@ support-ru.wd.com
 wd.com
 browser.geekbench.com
 windows64.net
+goatcounter.com
