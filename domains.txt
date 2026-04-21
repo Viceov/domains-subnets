@@ -39,3 +39,6 @@ nit.ro
 crwdcntrl.net
 nitropay.com
 lijit.com
+3lift.com
+adsrvr.org
+rubiconproject.com
