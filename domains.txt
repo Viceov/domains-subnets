@@ -34,3 +34,4 @@ sync.inmobi.com
 lemonapi.com
 game-data.lemonapi.com
 avplayer.com
+sharethrough.com
