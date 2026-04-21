@@ -67,7 +67,7 @@ hadronid.net
 *.hadronid.net
 ad.gt
 *.ad.gt
-
+cloudflare.com
 genshin-impact-map.appsample.com
 s.nitropay.com
 a.ad.gt
