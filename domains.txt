@@ -21,11 +21,4 @@ docs.rw
 adpexai.com
 netacad.com
 genshin-impact-map.appsample.com
-maps.googleapis.com
-api.appsample.com
-*.appsample.com
-maps.googleapis.com
-*.googleapis.com
-developers.google.com
-game-data.lemonapi.com
-domcar.com.cy
+
