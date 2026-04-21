@@ -24,3 +24,4 @@ genshin-impact-map.appsample.com
 support-ru.wd.com
 wd.com
 browser.geekbench.com
+windows64.net
