@@ -38,6 +38,7 @@ lemonapi.com
 game-data.lemonapi.com
 avplayer.com
 *.avplayer.com
+player.avplayer.com
 nit.ro
 *.nit.ro
 crwdcntrl.net
