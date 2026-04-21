@@ -65,3 +65,5 @@ indexww.com
 *.indexww.com
 hadronid.net
 *.hadronid.net
+ad.gt
+*.ad.gt
