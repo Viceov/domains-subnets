@@ -44,6 +44,7 @@ nitropay.com
 lijit.com
 3lift.com
 adsrvr.org
+*.adsrvr.org
 rubiconproject.com
 *.rubiconproject.com
 lijit.com
