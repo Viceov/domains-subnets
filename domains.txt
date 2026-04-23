@@ -79,3 +79,4 @@ cdn.hadronid.net
 player.avplayer.com
 game-data.b-cdn.net
 leetcode.com
+dv.tech
