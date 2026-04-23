@@ -25,6 +25,7 @@ wd.com
 browser.geekbench.com
 windows64.net
 goatcounter.com
+// 
 gc.zgo.at
 *.zgo.at
 google-analytics.com
@@ -81,3 +82,4 @@ game-data.b-cdn.net
 leetcode.com
 dv.tech
 flixster.com
+fandango.com
