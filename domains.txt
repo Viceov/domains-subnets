@@ -1,3 +1,8 @@
+frontdoor-prod-client.fd.analytics.prod.deadorbit.net
+ps5.np.playstation.net
+www2.signon.goliath.prod.gravityshavings.net
+feature.api.playstation.com
+asm.np.community.playstation.net
 multimc.org
 image.online-convert.com
 amazonaws.com
