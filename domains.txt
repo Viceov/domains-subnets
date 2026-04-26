@@ -3,6 +3,8 @@ ps5.np.playstation.net
 www2.signon.goliath.prod.gravityshavings.net
 feature.api.playstation.com
 asm.np.community.playstation.net
+bungiestore.com
+www.bungie.net
 multimc.org
 image.online-convert.com
 amazonaws.com
@@ -30,7 +32,6 @@ wd.com
 browser.geekbench.com
 windows64.net
 goatcounter.com
-// 
 gc.zgo.at
 *.zgo.at
 google-analytics.com
