@@ -1,3 +1,4 @@
+decopy.ai
 frontdoor-prod-client.fd.analytics.prod.deadorbit.net
 ps5.np.playstation.net
 www2.signon.goliath.prod.gravityshavings.net
